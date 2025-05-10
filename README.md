@@ -4,11 +4,9 @@
 
 ```rust
 function exibirInfo() {
-    // Nome e status
     let name = "Ezequiel Silva";
     let status = "Full-Stack Developer";
     
-    // Tecnologias favoritas
     let languages = ["Python", "JavaScript", "HTML5", "CSS3"];
     let tools = "Linux";
 }
